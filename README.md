@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @kostiskap1999
-- 👀 I’m interested in Web Development, WordPress and Unreal Engine
-- 🌱 Currently learning React Native and Express.js
+- 👀 Interested in Web Development, WordPress and Unreal Engine
+- 🌱 Currently learning React Native
 - 📫 You can find my WordPress sites [here](http://kapniasportfolio.xyz/)
+- 📖 Fantasy writer when not programming
 - 🦜 Parrots are the best and the whole world should know it
+
 
 <!---
 kostiskap1999/kostiskap1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
