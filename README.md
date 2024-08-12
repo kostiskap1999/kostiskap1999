@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kostiskap1999
 - 👀 Interested in Web Development and Unreal Engine
-- 🌱 Currently learning React Native and TypeScript
+- 💻 Current favourites: React, React Native, TypeScript
 - 📖 Fantasy writer when not programming
 - 🦜 Parrots are the best and the whole world should know it
 
